@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7aa2f7,100:bb9af7&text=Asnomelo&fontColor=1a1b26&fontSize=60&fontAlignY=35&desc=Jeune%20d%C3%A9veloppeur%20web%20%26%20mobile&descAlignY=58&animation=fadeIn" alt="Bannière Asnomelo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7aa2f7,100:bb9af7&text=Asnomelo&fontColor=1a1b26&fontSize=60&fontAlignY=35&desc=Jeune%20d%C3%A9veloppeur%20web%20et%20mobile&descAlignY=58&animation=fadeIn" alt="Bannière Asnomelo" />
 </p>
 
 <p align="center">
