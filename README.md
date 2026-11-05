@@ -80,6 +80,7 @@ Pouvoir caché   : enchaîner une saison entière d'animé en une soirée
 <!-- Remplace cette liste par tes vrais favoris -->
 - *Moi, quand je me réincarne en Slime* : forcément, vu le nom de certains de mes projets
 - *L'Attaque des Titans*
+- - *Naruto* : ne jamais abandonner
 
 </details>
 
